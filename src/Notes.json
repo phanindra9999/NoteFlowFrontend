@@ -1,0 +1,122 @@
+[
+    {
+        "title": "Introduction to Computer Science",
+        "description": "An overview of computer science and its fundamental concepts.",
+        "image_link": "https://example.com/image1.jpg",
+        "uploadDate": "2022-04-01T10:00:00Z"
+    },
+    {
+        "title": "Algorithms and Data Structures",
+        "description": "Study of algorithms for problem-solving and data structures for organizing and storing data.",
+        "image_link": "https://example.com/image1.jpg",
+        "uploadDate": "2022-04-05T10:00:00Z"
+    },
+    {
+        "title": "Object-Oriented Programming",
+        "description": "Introduction to OOP concepts like classes, objects, inheritance, and polymorphism.",
+        "image_link": "https://example.com/image3.jpg",
+        "uploadDate": "2022-04-10T10:00:00Z"
+    },
+    {
+        "title": "Web Development Basics",
+        "description": "Basic concepts of web development including HTML, CSS, and JavaScript.",
+        "image_link": "https://example.com/image4.jpg",
+        "uploadDate": "2022-04-15T10:00:00Z"
+    },
+    {
+        "title": "Database Management Systems",
+        "description": "Study of database systems, SQL queries, and database design.",
+        "image_link": "https://example.com/image5.jpg",
+        "uploadDate": "2022-04-20T10:00:00Z"
+    },
+    {
+        "title": "Computer Networks",
+        "description": "Introduction to networking concepts, protocols, and architectures.",
+        "image_link": "https://example.com/image6.jpg",
+        "uploadDate": "2022-04-25T10:00:00Z"
+    },
+    {
+        "title": "Software Engineering Principles",
+        "description": "Study of software development methodologies, design patterns, and best practices.",
+        "image_link": "https://example.com/image7.jpg",
+        "uploadDate": "2022-05-01T10:00:00Z"
+    },
+    {
+        "title": "Artificial Intelligence",
+        "description": "Introduction to AI, machine learning algorithms, and neural networks.",
+        "image_link": "https://example.com/image8.jpg",
+        "uploadDate": "2022-05-05T10:00:00Z"
+    },
+    {
+        "title": "Cybersecurity Fundamentals",
+        "description": "Basics of cybersecurity, encryption, and secure coding practices.",
+        "image_link": "https://example.com/image9.jpg",
+        "uploadDate": "2022-05-10T10:00:00Z"
+    },
+    {
+        "title": "Cloud Computing",
+        "description": "Introduction to cloud computing concepts, services, and architectures.",
+        "image_link": "https://example.com/image10.jpg",
+        "uploadDate": "2022-05-15T10:00:00Z"
+    },
+    {
+        "title": "Mobile App Development",
+        "description": "Basic concepts of mobile app development, frameworks, and platforms.",
+        "image_link": "https://example.com/image11.jpg",
+        "uploadDate": "2022-05-20T10:00:00Z"
+    },
+    {
+        "title": "Operating Systems",
+        "description": "Study of operating system concepts, processes, and memory management.",
+        "image_link": "https://example.com/image12.jpg",
+        "uploadDate": "2022-05-25T10:00:00Z"
+    },
+    {
+        "title": "Software Testing",
+        "description": "Introduction to software testing methodologies, types of testing, and tools.",
+        "image_link": "https://example.com/image13.jpg",
+        "uploadDate": "2022-06-01T10:00:00Z"
+    },
+    {
+        "title": "Computer Graphics",
+        "description": "Basics of computer graphics, rendering techniques, and 3D modeling.",
+        "image_link": "https://example.com/image14.jpg",
+        "uploadDate": "2022-06-05T10:00:00Z"
+    },
+    {
+        "title": "Data Analytics",
+        "description": "Introduction to data analytics, data visualization, and analytics tools.",
+        "image_link": "https://example.com/image15.jpg",
+        "uploadDate": "2022-06-10T10:00:00Z"
+    },
+    {
+        "title": "IoT (Internet of Things)",
+        "description": "Study of IoT concepts, devices, and applications in real-world scenarios.",
+        "image_link": "https://example.com/image16.jpg",
+        "uploadDate": "2022-06-15T10:00:00Z"
+    },
+    {
+        "title": "Blockchain Technology",
+        "description": "Basics of blockchain, cryptocurrency, and smart contracts.",
+        "image_link": "https://example.com/image17.jpg",
+        "uploadDate": "2022-06-20T10:00:00Z"
+    },
+    {
+        "title": "Natural Language Processing",
+        "description": "Introduction to NLP, text processing, and language models.",
+        "image_link": "https://example.com/image18.jpg",
+        "uploadDate": "2022-06-25T10:00:00Z"
+    },
+    {
+        "title": "Virtual Reality",
+        "description": "Study of VR technology, applications, and development platforms.",
+        "image_link": "https://example.com/image19.jpg",
+        "uploadDate": "2022-07-01T10:00:00Z"
+    },
+    {
+        "title": "Quantum Computing",
+        "description": "Basics of quantum computing, quantum algorithms, and qubits.",
+        "image_link": "https://example.com/image20.jpg",
+        "uploadDate": "2022-07-05T10:00:00Z"
+    }
+]
